@@ -1,5 +1,6 @@
 # MapleStory-Remake
-MapleStory remake in C++
+
+Using MapleStory as a base, this project is aimed towards creating an MMORPG  in C++.
 
 ### Features
 
